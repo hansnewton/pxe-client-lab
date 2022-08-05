@@ -8,8 +8,8 @@ vagrant plugin install vagrant-disksize
 ```
 
 ### Configuracoes minimas do cliente:
-2048 vRAM
-1 vCPU
+- 2048 vRAM
+- 1 vCPU
 
 ## Etapas
 
