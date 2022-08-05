@@ -4,7 +4,7 @@
 
 ### Instalar plugin de controle de discos do vagrant
 ```bash
-vagrant plugin install vagrant-disksize`
+vagrant plugin install vagrant-disksize
 ```
 
 ### Configuracoes minimas do cliente:
