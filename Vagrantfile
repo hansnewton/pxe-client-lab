@@ -24,6 +24,6 @@ Vagrant.configure("2") do |config|
   end
 
 	config.vm.define 'pxe-client' do |s|
-    s.vm.hostname = "pxe-client.hans.lan"
+		s.vm.hostname = "pxe-client.hans.lan"
 	end
 end
